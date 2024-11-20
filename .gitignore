@@ -9,7 +9,4 @@
 *.tgz
 .env
 .idea/
-go.work
-go.work.sum
-node_modules/
-userdata/
+testdata/
